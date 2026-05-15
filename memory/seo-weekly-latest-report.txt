@@ -1,0 +1,46 @@
+**📈 Weekly Content Analysis Report — miguel.ms**
+2026-05-04 → 2026-05-10 vs 2026-04-27 → 2026-05-03
+
+**Topline**
+- **Sessions:** 82 (+15%)
+- **Active users:** 59 (-8%)
+- **Pageviews:** 187 (+80%)
+- **New users:** 36 (-36%)
+- **Engagement rate:** 59.8% (+102%)
+- **Avg session duration:** 4m51s (+307%)
+
+**Channel signals**
+- **Direct**: 70 sessions (up, +8%); ER 55.7%
+- **Organic Social**: 7 sessions (new, +new); ER 100.0%
+- **Referral**: 5 sessions (new, +new); ER 60.0%
+- **Organic Search**: 0 sessions (down, -100%); ER 0.0%
+
+**Source / medium**
+- **(direct) / (none)**: 70 sessions; 39 engaged; avg 4m38s
+- **linkedin.com / referral**: 5 sessions; 5 engaged; avg 2m49s
+- **github.com / referral**: 3 sessions; 1 engaged; avg 10m42s
+- **statics.teams.cdn.office.net / referral**: 2 sessions; 2 engaged; avg 0m39s
+- **t.co / referral**: 2 sessions; 2 engaged; avg 12m40s
+
+**UTM signals**
+- No meaningful UTM-tagged traffic this week.
+
+**Top landing pages**
+- `/`: 21 sessions (-12%)
+- `/?external_auth=1`: 16 sessions (+300%)
+- `/blog/2026-04-30-the-ai-rebrand-selling-the-perception-of-transformation`: 12 sessions (+new)
+- `/blog/2026-03-05-openclaw-state-of-platform-2026`: 6 sessions (-40%)
+- `(not set)`: 6 sessions (+100%)
+
+**Top blog posts**
+- **The AI Rebrand: Selling the Perception of Transformation**: 18 sessions, 26 views, avg 8m03s (+new)
+- **OpenClaw in 2026: The AI Gateway That Passed React on GitHub Stars — and the Questions Nobody's Answering**: 6 sessions, 6 views, avg 0m00s (-40%)
+- **CLI Solved This Problem 50 Years Ago. MCP Still Has Not.**: 2 sessions, 2 views, avg 0m00s (+new)
+- **Claude Mythos: The AI That Breaks Everything. Anthropic Is Betting It Can Protect Us Instead.**: 2 sessions, 2 views, avg 0m00s (+0%)
+- **Anthropic Pulled the Rug on Third-Party Harnesses. The Damage Goes Beyond Billing.**: 1 session, 1 view, avg 0m00s (-50%)
+
+**Read**
+- Strongest channel movement: **Organic Social**.
+- Softest channel movement: **Organic Search**.
+- Best landing-page movement: `/blog/2026-04-30-the-ai-rebrand-selling-the-perception-of-transformation`.
+- Watch landing-page drop: `/blog/2026-03-05-openclaw-state-of-platform-2026`.

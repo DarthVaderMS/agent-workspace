@@ -1,0 +1,45 @@
+# Generated / temp
+tmp/
+*.ogg
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.pdf
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+
+# Secrets files
+*.env
+*.key
+*.pem
+*.crt
+*.pfx
+*.p12
+*.asc
+*.gpg
+*.enc
+*.secret
+*.vault
+*.credentials
+secrets/
+
+# State files
+state/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Openclaw temporal files
+.migration-backups/
+.openclaw/
+.openclaw-repair/

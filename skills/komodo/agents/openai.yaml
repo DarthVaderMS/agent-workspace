@@ -1,0 +1,4 @@
+interface:
+  display_name: "Komodo"
+  short_description: "Manage Komodo resources and actions"
+  default_prompt: "Use $komodo to list stacks and check current deployment status."

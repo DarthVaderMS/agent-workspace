@@ -1,0 +1,33 @@
+📊 **SEO Daily Sync — 2026-05-15**
+Site: <https://miguel.ms> | 40 URLs in sitemap | ✅ 16 visible in GSC / ⚠️ 24 not seen in recent GSC page data
+Visibility source: `sc-domain:miguel.ms` over the last 90 days
+
+📥 **Sitemaps in GSC:** 2
+  • https://miguel.ms/sitemap-0.xml (submitted: 2026-03-27, w=0, e=0)
+  • https://miguel.ms/sitemap-index.xml (submitted: 2026-03-25, w=0, e=0)
+
+📋 **Not seen in recent GSC page data:**
+  • `/blog/2026-03-05-openclaw-state-of-platform-2026`
+  • `/blog/2026-03-06-prediction-markets-ai`
+  • `/blog/2026-03-07-meta-glasses-privacy`
+  • `/blog/2026-03-07-small-models-openclaw-risks`
+  • `/blog/2026-03-10-mcp-cli-context-bloat`
+  • `/blog/2026-03-28-the-machine-that-does-its-own-research`
+  • `/blog/2026-04-01-claude-code-source-leak-what-actually-happened`
+  • `/blog/2026-04-03-the-karpathy-loop-beyond-ml-how-any-business-can-run-36500-experiments-a-year`
+  • `/blog/2026-04-08-claude-mythos-project-glasswing`
+  • `/blog/2026-04-10-the-axios-supply-chain-attack-wasnt-a-hack-it-was-a-con`
+  • `/blog/2026-04-13-rogue-ai-agents-the-incidents-already-happening`
+  • `/blog/2026-04-16-claude-mythos-when-ai-learns-to-break-the-internet-who-gets-left-behind`
+  • `/blog/2026-04-20-gpt-5-4-cyber-openais-answer-to-the-question-nobody-wanted-asked`
+  • `/blog/2026-04-22-the-heist-you-cannot-stop-how-ai-companies-are-losing-their-most-valuable-asset`
+  • `/blog/2026-04-30-the-ai-rebrand-selling-the-perception-of-transformation`
+  • `/legal/discord/terms`
+  • `/privacy`
+  • `/team/babufrik`
+  • `/team/krennic`
+  • `/team/l337`
+  • `/team/lando`
+  • `/team/marajade`
+  • `/team/vader`
+  • `/terms`

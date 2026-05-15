@@ -1,0 +1,332 @@
+{
+  "blog_posts": [
+    {
+      "activeUsers_current": 12.0,
+      "activeUsers_previous": 0.0,
+      "averageSessionDuration_current": 483.86124027777777,
+      "averageSessionDuration_previous": 0.0,
+      "excerpt": "# The AI Rebrand: Selling the Perception of Transformation **Enterprise software vendors are rebranding API-first platforms as AI-ready infrastructure, and markets are rewarding the story before testing the substance.** ",
+      "name": "/blog/2026-04-30-the-ai-rebrand-selling-the-perception-of-transformation",
+      "screenPageViews_current": 26.0,
+      "screenPageViews_previous": 0.0,
+      "sessions_current": 18.0,
+      "sessions_previous": 0.0,
+      "title": "The AI Rebrand: Selling the Perception of Transformation"
+    },
+    {
+      "activeUsers_current": 6.0,
+      "activeUsers_previous": 10.0,
+      "averageSessionDuration_current": 0.0,
+      "averageSessionDuration_previous": 0.1727261,
+      "excerpt": "# OpenClaw in 2026: The AI Gateway That Passed React on GitHub Stars \u2014 and the Questions Nobody's Answering **Five weeks. That's how long OpenClaw has existed under its current name. In that time, it surpassed React on G",
+      "name": "/blog/2026-03-05-openclaw-state-of-platform-2026",
+      "screenPageViews_current": 6.0,
+      "screenPageViews_previous": 10.0,
+      "sessions_current": 6.0,
+      "sessions_previous": 10.0,
+      "title": "OpenClaw in 2026: The AI Gateway That Passed React on GitHub Stars \u2014 and the Questions Nobody's Answering"
+    },
+    {
+      "activeUsers_current": 2.0,
+      "activeUsers_previous": 0.0,
+      "averageSessionDuration_current": 0.0,
+      "averageSessionDuration_previous": 0.0,
+      "excerpt": "# CLI Solved This Problem 50 Years Ago. MCP Still Has Not. **MCP servers are consuming 30% of your AI context window before you type a word. The fix has been sitting in your terminal since 1971.** *Published: 2026-03-10 ",
+      "name": "/blog/2026-03-10-mcp-cli-context-bloat",
+      "screenPageViews_current": 2.0,
+      "screenPageViews_previous": 0.0,
+      "sessions_current": 2.0,
+      "sessions_previous": 0.0,
+      "title": "CLI Solved This Problem 50 Years Ago. MCP Still Has Not."
+    },
+    {
+      "activeUsers_current": 2.0,
+      "activeUsers_previous": 2.0,
+      "averageSessionDuration_current": 0.0,
+      "averageSessionDuration_previous": 0.0,
+      "excerpt": "# Claude Mythos: The AI That Breaks Everything. Anthropic Is Betting It Can Protect Us Instead. **Anthropic built an AI that finds zero-days in every major OS overnight and is withholding it from the public. Project Glas",
+      "name": "/blog/2026-04-08-claude-mythos-project-glasswing",
+      "screenPageViews_current": 2.0,
+      "screenPageViews_previous": 2.0,
+      "sessions_current": 2.0,
+      "sessions_previous": 2.0,
+      "title": "Claude Mythos: The AI That Breaks Everything. Anthropic Is Betting It Can Protect Us Instead."
+    },
+    {
+      "activeUsers_current": 1.0,
+      "activeUsers_previous": 2.0,
+      "averageSessionDuration_current": 0.0,
+      "averageSessionDuration_previous": 304.943518,
+      "excerpt": "# Anthropic Pulled the Rug on Third-Party Harnesses. The Damage Goes Beyond Billing. **Anthropic cut Claude subscriptions for third-party harnesses with less than 24 hours notice. The technical justification holds. The w",
+      "name": "/blog/2026-04-07-anthropic-pulled-the-rug-on-third-party-harnesses",
+      "screenPageViews_current": 1.0,
+      "screenPageViews_previous": 2.0,
+      "sessions_current": 1.0,
+      "sessions_previous": 2.0,
+      "title": "Anthropic Pulled the Rug on Third-Party Harnesses. The Damage Goes Beyond Billing."
+    },
+    {
+      "activeUsers_current": 0.0,
+      "activeUsers_previous": 1.0,
+      "averageSessionDuration_current": 0.0,
+      "averageSessionDuration_previous": 0.0,
+      "excerpt": "# The Machine That Does Its Own Research **Andrej Karpathy dropped 630 lines of Python that automate the scientific method overnight. Here is what autoresearch actually is, how it works, and why the three conditions of t",
+      "name": "/blog/2026-03-28-the-machine-that-does-its-own-research",
+      "screenPageViews_current": 0.0,
+      "screenPageViews_previous": 1.0,
+      "sessions_current": 0.0,
+      "sessions_previous": 1.0,
+      "title": "The Machine That Does Its Own Research"
+    },
+    {
+      "activeUsers_current": 0.0,
+      "activeUsers_previous": 5.0,
+      "averageSessionDuration_current": 0.0,
+      "averageSessionDuration_previous": 0.0,
+      "excerpt": "# Small Models and OpenClaw: The Risks That Actually Matter (And When They Don't) **Running a small local model with OpenClaw sounds attractive: no API bills, full privacy. But the risks are architectural, not theoretica",
+      "name": "/blog/2026-03-07-small-models-openclaw-risks",
+      "screenPageViews_current": 0.0,
+      "screenPageViews_previous": 5.0,
+      "sessions_current": 0.0,
+      "sessions_previous": 5.0,
+      "title": "Small Models and OpenClaw: The Risks That Actually Matter (And When They Don't)"
+    },
+    {
+      "activeUsers_current": 0.0,
+      "activeUsers_previous": 5.0,
+      "averageSessionDuration_current": 0.0,
+      "averageSessionDuration_previous": 2.5658933999999998,
+      "excerpt": "# The Heist You Cannot Stop: How AI Companies Are Losing Their Most Valuable Asset **How 16 million Claude conversations were stolen by Chinese AI companies using distillation to strip safety training while preserving da",
+      "name": "/blog/2026-04-22-the-heist-you-cannot-stop-how-ai-companies-are-losing-their-most-valuable-asset",
+      "screenPageViews_current": 0.0,
+      "screenPageViews_previous": 5.0,
+      "sessions_current": 0.0,
+      "sessions_previous": 5.0,
+      "title": "The Heist You Cannot Stop: How AI Companies Are Losing Their Most Valuable Asset"
+    }
+  ],
+  "channels": [
+    {
+      "activeUsers_current": 40.0,
+      "activeUsers_previous": 54.0,
+      "engagedSessions_current": 39.0,
+      "engagedSessions_previous": 17.0,
+      "engagementRate_current": 0.5571428571428572,
+      "engagementRate_previous": 0.26153846153846155,
+      "name": "Direct",
+      "sessions_current": 70.0,
+      "sessions_previous": 65.0
+    },
+    {
+      "activeUsers_current": 3.0,
+      "activeUsers_previous": 0.0,
+      "engagedSessions_current": 7.0,
+      "engagedSessions_previous": 0.0,
+      "engagementRate_current": 1.0,
+      "engagementRate_previous": 0.0,
+      "name": "Organic Social",
+      "sessions_current": 7.0,
+      "sessions_previous": 0.0
+    },
+    {
+      "activeUsers_current": 4.0,
+      "activeUsers_previous": 0.0,
+      "engagedSessions_current": 3.0,
+      "engagedSessions_previous": 0.0,
+      "engagementRate_current": 0.6,
+      "engagementRate_previous": 0.0,
+      "name": "Referral",
+      "sessions_current": 5.0,
+      "sessions_previous": 0.0
+    },
+    {
+      "activeUsers_current": 0.0,
+      "activeUsers_previous": 6.0,
+      "engagedSessions_current": 0.0,
+      "engagedSessions_previous": 4.0,
+      "engagementRate_current": 0.0,
+      "engagementRate_previous": 0.6666666666666666,
+      "name": "Organic Search",
+      "sessions_current": 0.0,
+      "sessions_previous": 6.0
+    }
+  ],
+  "generated_at": "2026-05-15T21:23:43.210441+00:00",
+  "landing_pages": [
+    {
+      "activeUsers_current": 21.0,
+      "activeUsers_previous": 21.0,
+      "engagedSessions_current": 10.0,
+      "engagedSessions_previous": 12.0,
+      "name": "/",
+      "sessions_current": 21.0,
+      "sessions_previous": 24.0
+    },
+    {
+      "activeUsers_current": 3.0,
+      "activeUsers_previous": 2.0,
+      "engagedSessions_current": 16.0,
+      "engagedSessions_previous": 4.0,
+      "name": "/?external_auth=1",
+      "sessions_current": 16.0,
+      "sessions_previous": 4.0
+    },
+    {
+      "activeUsers_current": 12.0,
+      "activeUsers_previous": 0.0,
+      "engagedSessions_current": 12.0,
+      "engagedSessions_previous": 0.0,
+      "name": "/blog/2026-04-30-the-ai-rebrand-selling-the-perception-of-transformation",
+      "sessions_current": 12.0,
+      "sessions_previous": 0.0
+    },
+    {
+      "activeUsers_current": 6.0,
+      "activeUsers_previous": 10.0,
+      "engagedSessions_current": 0.0,
+      "engagedSessions_previous": 0.0,
+      "name": "/blog/2026-03-05-openclaw-state-of-platform-2026",
+      "sessions_current": 6.0,
+      "sessions_previous": 10.0
+    },
+    {
+      "activeUsers_current": 5.0,
+      "activeUsers_previous": 2.0,
+      "engagedSessions_current": 3.0,
+      "engagedSessions_previous": 1.0,
+      "name": "(not set)",
+      "sessions_current": 6.0,
+      "sessions_previous": 3.0
+    },
+    {
+      "activeUsers_current": 1.0,
+      "activeUsers_previous": 0.0,
+      "engagedSessions_current": 0.0,
+      "engagedSessions_previous": 0.0,
+      "name": "/team",
+      "sessions_current": 4.0,
+      "sessions_previous": 0.0
+    },
+    {
+      "activeUsers_current": 2.0,
+      "activeUsers_previous": 0.0,
+      "engagedSessions_current": 2.0,
+      "engagedSessions_previous": 0.0,
+      "name": "/lovelace/home",
+      "sessions_current": 2.0,
+      "sessions_previous": 0.0
+    },
+    {
+      "activeUsers_current": 2.0,
+      "activeUsers_previous": 0.0,
+      "engagedSessions_current": 0.0,
+      "engagedSessions_previous": 0.0,
+      "name": "/blog/2026-03-10-mcp-cli-context-bloat",
+      "sessions_current": 2.0,
+      "sessions_previous": 0.0
+    }
+  ],
+  "sources": [
+    {
+      "averageSessionDuration_current": 278.9604852142857,
+      "averageSessionDuration_previous": 68.72036813846152,
+      "engagedSessions_current": 39.0,
+      "engagedSessions_previous": 17.0,
+      "name": "(direct) / (none)",
+      "sessions_current": 70.0,
+      "sessions_previous": 65.0
+    },
+    {
+      "averageSessionDuration_current": 169.7059458,
+      "averageSessionDuration_previous": 0.0,
+      "engagedSessions_current": 5.0,
+      "engagedSessions_previous": 0.0,
+      "name": "linkedin.com / referral",
+      "sessions_current": 5.0,
+      "sessions_previous": 0.0
+    },
+    {
+      "averageSessionDuration_current": 642.656335,
+      "averageSessionDuration_previous": 0.0,
+      "engagedSessions_current": 1.0,
+      "engagedSessions_previous": 0.0,
+      "name": "github.com / referral",
+      "sessions_current": 3.0,
+      "sessions_previous": 0.0
+    },
+    {
+      "averageSessionDuration_current": 39.299203,
+      "averageSessionDuration_previous": 0.0,
+      "engagedSessions_current": 2.0,
+      "engagedSessions_previous": 0.0,
+      "name": "statics.teams.cdn.office.net / referral",
+      "sessions_current": 2.0,
+      "sessions_previous": 0.0
+    },
+    {
+      "averageSessionDuration_current": 760.0179525,
+      "averageSessionDuration_previous": 0.0,
+      "engagedSessions_current": 2.0,
+      "engagedSessions_previous": 0.0,
+      "name": "t.co / referral",
+      "sessions_current": 2.0,
+      "sessions_previous": 0.0
+    },
+    {
+      "averageSessionDuration_current": 0.0,
+      "averageSessionDuration_previous": 2.6888775,
+      "engagedSessions_current": 0.0,
+      "engagedSessions_previous": 2.0,
+      "name": "google / organic",
+      "sessions_current": 0.0,
+      "sessions_previous": 4.0
+    },
+    {
+      "averageSessionDuration_current": 0.0,
+      "averageSessionDuration_previous": 304.943518,
+      "engagedSessions_current": 0.0,
+      "engagedSessions_previous": 2.0,
+      "name": "duckduckgo / organic",
+      "sessions_current": 0.0,
+      "sessions_previous": 2.0
+    }
+  ],
+  "topline": {
+    "activeUsers": {
+      "current": 59.0,
+      "previous": 64.0
+    },
+    "averageSessionDuration": {
+      "current": 291.49228060975605,
+      "previous": 71.6544573943662
+    },
+    "engagedSessions": {
+      "current": 49.0,
+      "previous": 21.0
+    },
+    "engagementRate": {
+      "current": 0.5975609756097561,
+      "previous": 0.29577464788732394
+    },
+    "newUsers": {
+      "current": 36.0,
+      "previous": 56.0
+    },
+    "screenPageViews": {
+      "current": 187.0,
+      "previous": 104.0
+    },
+    "sessions": {
+      "current": 82.0,
+      "previous": 71.0
+    }
+  },
+  "utms": [],
+  "week": {
+    "current_end": "2026-05-10",
+    "current_start": "2026-05-04",
+    "iso_week": "2026-W19",
+    "previous_end": "2026-05-03",
+    "previous_start": "2026-04-27"
+  }
+}

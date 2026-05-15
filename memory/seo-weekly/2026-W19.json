@@ -28,19 +28,6 @@
     },
     {
       "activeUsers_current": 2.0,
-      "activeUsers_previous": 0.0,
-      "averageSessionDuration_current": 0.0,
-      "averageSessionDuration_previous": 0.0,
-      "excerpt": "# CLI Solved This Problem 50 Years Ago. MCP Still Has Not. **MCP servers are consuming 30% of your AI context window before you type a word. The fix has been sitting in your terminal since 1971.** *Published: 2026-03-10 ",
-      "name": "/blog/2026-03-10-mcp-cli-context-bloat",
-      "screenPageViews_current": 2.0,
-      "screenPageViews_previous": 0.0,
-      "sessions_current": 2.0,
-      "sessions_previous": 0.0,
-      "title": "CLI Solved This Problem 50 Years Ago. MCP Still Has Not."
-    },
-    {
-      "activeUsers_current": 2.0,
       "activeUsers_previous": 2.0,
       "averageSessionDuration_current": 0.0,
       "averageSessionDuration_previous": 0.0,
@@ -51,6 +38,19 @@
       "sessions_current": 2.0,
       "sessions_previous": 2.0,
       "title": "Claude Mythos: The AI That Breaks Everything. Anthropic Is Betting It Can Protect Us Instead."
+    },
+    {
+      "activeUsers_current": 2.0,
+      "activeUsers_previous": 0.0,
+      "averageSessionDuration_current": 0.0,
+      "averageSessionDuration_previous": 0.0,
+      "excerpt": "# CLI Solved This Problem 50 Years Ago. MCP Still Has Not. **MCP servers are consuming 30% of your AI context window before you type a word. The fix has been sitting in your terminal since 1971.** *Published: 2026-03-10 ",
+      "name": "/blog/2026-03-10-mcp-cli-context-bloat",
+      "screenPageViews_current": 2.0,
+      "screenPageViews_previous": 0.0,
+      "sessions_current": 2.0,
+      "sessions_previous": 0.0,
+      "title": "CLI Solved This Problem 50 Years Ago. MCP Still Has Not."
     },
     {
       "activeUsers_current": 1.0,
@@ -67,19 +67,6 @@
     },
     {
       "activeUsers_current": 0.0,
-      "activeUsers_previous": 1.0,
-      "averageSessionDuration_current": 0.0,
-      "averageSessionDuration_previous": 0.0,
-      "excerpt": "# The Machine That Does Its Own Research **Andrej Karpathy dropped 630 lines of Python that automate the scientific method overnight. Here is what autoresearch actually is, how it works, and why the three conditions of t",
-      "name": "/blog/2026-03-28-the-machine-that-does-its-own-research",
-      "screenPageViews_current": 0.0,
-      "screenPageViews_previous": 1.0,
-      "sessions_current": 0.0,
-      "sessions_previous": 1.0,
-      "title": "The Machine That Does Its Own Research"
-    },
-    {
-      "activeUsers_current": 0.0,
       "activeUsers_previous": 5.0,
       "averageSessionDuration_current": 0.0,
       "averageSessionDuration_previous": 0.0,
@@ -93,16 +80,29 @@
     },
     {
       "activeUsers_current": 0.0,
-      "activeUsers_previous": 5.0,
+      "activeUsers_previous": 1.0,
       "averageSessionDuration_current": 0.0,
-      "averageSessionDuration_previous": 2.5658933999999998,
-      "excerpt": "# The Heist You Cannot Stop: How AI Companies Are Losing Their Most Valuable Asset **How 16 million Claude conversations were stolen by Chinese AI companies using distillation to strip safety training while preserving da",
-      "name": "/blog/2026-04-22-the-heist-you-cannot-stop-how-ai-companies-are-losing-their-most-valuable-asset",
+      "averageSessionDuration_previous": 0.0,
+      "excerpt": "# The Machine That Does Its Own Research **Andrej Karpathy dropped 630 lines of Python that automate the scientific method overnight. Here is what autoresearch actually is, how it works, and why the three conditions of t",
+      "name": "/blog/2026-03-28-the-machine-that-does-its-own-research",
       "screenPageViews_current": 0.0,
-      "screenPageViews_previous": 5.0,
+      "screenPageViews_previous": 1.0,
       "sessions_current": 0.0,
-      "sessions_previous": 5.0,
-      "title": "The Heist You Cannot Stop: How AI Companies Are Losing Their Most Valuable Asset"
+      "sessions_previous": 1.0,
+      "title": "The Machine That Does Its Own Research"
+    },
+    {
+      "activeUsers_current": 0.0,
+      "activeUsers_previous": 4.0,
+      "averageSessionDuration_current": 0.0,
+      "averageSessionDuration_previous": 0.22822225,
+      "excerpt": "# GPT-5.4-Cyber: OpenAI's Answer to the Question Nobody Wanted Asked **Two cyber-AI models in 7 days. Glasswing to 52 orgs. TAC to thousands. Same capability, opposite philosophy. How we govern AI shapes everything that ",
+      "name": "/blog/2026-04-20-gpt-5-4-cyber-openais-answer-to-the-question-nobody-wanted-asked",
+      "screenPageViews_current": 0.0,
+      "screenPageViews_previous": 4.0,
+      "sessions_current": 0.0,
+      "sessions_previous": 4.0,
+      "title": "GPT-5.4-Cyber: OpenAI's Answer to the Question Nobody Wanted Asked"
     }
   ],
   "channels": [
@@ -151,7 +151,7 @@
       "sessions_previous": 6.0
     }
   ],
-  "generated_at": "2026-05-15T21:23:43.210441+00:00",
+  "generated_at": "2026-05-15T21:40:43.844371+00:00",
   "landing_pages": [
     {
       "activeUsers_current": 21.0,
@@ -212,7 +212,7 @@
       "activeUsers_previous": 0.0,
       "engagedSessions_current": 2.0,
       "engagedSessions_previous": 0.0,
-      "name": "/lovelace/home",
+      "name": "/series/star-wars-the-clone-wars",
       "sessions_current": 2.0,
       "sessions_previous": 0.0
     },
@@ -221,7 +221,7 @@
       "activeUsers_previous": 0.0,
       "engagedSessions_current": 0.0,
       "engagedSessions_previous": 0.0,
-      "name": "/blog/2026-03-10-mcp-cli-context-bloat",
+      "name": "/team/marajade",
       "sessions_current": 2.0,
       "sessions_previous": 0.0
     }
@@ -255,20 +255,20 @@
       "sessions_previous": 0.0
     },
     {
-      "averageSessionDuration_current": 39.299203,
-      "averageSessionDuration_previous": 0.0,
-      "engagedSessions_current": 2.0,
-      "engagedSessions_previous": 0.0,
-      "name": "statics.teams.cdn.office.net / referral",
-      "sessions_current": 2.0,
-      "sessions_previous": 0.0
-    },
-    {
       "averageSessionDuration_current": 760.0179525,
       "averageSessionDuration_previous": 0.0,
       "engagedSessions_current": 2.0,
       "engagedSessions_previous": 0.0,
       "name": "t.co / referral",
+      "sessions_current": 2.0,
+      "sessions_previous": 0.0
+    },
+    {
+      "averageSessionDuration_current": 39.299203,
+      "averageSessionDuration_previous": 0.0,
+      "engagedSessions_current": 2.0,
+      "engagedSessions_previous": 0.0,
+      "name": "statics.teams.cdn.office.net / referral",
       "sessions_current": 2.0,
       "sessions_previous": 0.0
     },

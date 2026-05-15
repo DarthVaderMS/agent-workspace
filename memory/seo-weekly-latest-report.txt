@@ -19,8 +19,8 @@
 - **(direct) / (none)**: 70 sessions; 39 engaged; avg 4m38s
 - **linkedin.com / referral**: 5 sessions; 5 engaged; avg 2m49s
 - **github.com / referral**: 3 sessions; 1 engaged; avg 10m42s
-- **statics.teams.cdn.office.net / referral**: 2 sessions; 2 engaged; avg 0m39s
 - **t.co / referral**: 2 sessions; 2 engaged; avg 12m40s
+- **statics.teams.cdn.office.net / referral**: 2 sessions; 2 engaged; avg 0m39s
 
 **UTM signals**
 - No meaningful UTM-tagged traffic this week.
@@ -35,8 +35,8 @@
 **Top blog posts**
 - **The AI Rebrand: Selling the Perception of Transformation**: 18 sessions, 26 views, avg 8m03s (+new)
 - **OpenClaw in 2026: The AI Gateway That Passed React on GitHub Stars — and the Questions Nobody's Answering**: 6 sessions, 6 views, avg 0m00s (-40%)
-- **CLI Solved This Problem 50 Years Ago. MCP Still Has Not.**: 2 sessions, 2 views, avg 0m00s (+new)
 - **Claude Mythos: The AI That Breaks Everything. Anthropic Is Betting It Can Protect Us Instead.**: 2 sessions, 2 views, avg 0m00s (+0%)
+- **CLI Solved This Problem 50 Years Ago. MCP Still Has Not.**: 2 sessions, 2 views, avg 0m00s (+new)
 - **Anthropic Pulled the Rug on Third-Party Harnesses. The Damage Goes Beyond Billing.**: 1 session, 1 view, avg 0m00s (-50%)
 
 **Read**
